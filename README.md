@@ -1,1 +1,1 @@
-### GIT PRACTICES
+### GIT practices
