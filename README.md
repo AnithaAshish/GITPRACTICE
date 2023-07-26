@@ -1,1 +1,1 @@
-### GIT practices
+### Linking Git cli with Git hub.
